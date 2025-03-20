@@ -10,12 +10,9 @@
 </head>
 <body>
     <?php
-
        echo "<h1>Da Vincijev kod</h1>";
-      echo  "<p> Da Vincijev kod je kriminalistički triler američkog 
-            pisca Dana Browna.</p>";
-       echo "<a href="https://hr.wikipedia.org/Da_Vincijev_kod" target="_blank">Vise o knjizi</a>";
-       ?>
-
+       echo "<p> Da Vincijev kod je kriminalistički triler američkog pisca Dana Browna.</p>";
+       echo '<a href="https://hr.wikipedia.org/Da_Vincijev_kod" target="_blank">Vise o knjizi</a>';
+    ?>
 </body>
 </html>
