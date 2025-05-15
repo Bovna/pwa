@@ -1,0 +1,1 @@
+.sql datoteka je poslana na LMS, ako nije, uploadao sam na git u ovom istom folderu
